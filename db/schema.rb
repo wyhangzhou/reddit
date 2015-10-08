@@ -18,10 +18,10 @@ ActiveRecord::Schema.define(version: 20151007233414) do
     t.string   "url"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.integer  "uesr_id"
+    t.integer  "user_id"
   end
 
-  add_index "links", ["uesr_id"], name: "index_links_on_uesr_id"
+  add_index "links", ["user_id"], name: "index_links_on_user_id"
 
   create_table "users", force: true do |t|
     t.string   "email",                  default: "", null: false
