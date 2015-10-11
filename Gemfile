@@ -20,6 +20,8 @@ gem 'devise', '~> 3.5.2'
 
 gem 'bootstrap-sass', '~> 3.3.5'
 
+gem 'acts_as_votable', '~> 0.10.0'
+
 group :doc do
   gem 'sdoc', require: false
 end
