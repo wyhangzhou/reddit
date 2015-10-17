@@ -1,5 +1,7 @@
-*This is my first RoR project, I just follow https://mackenziechild.me/12-in-12/ to finish this.
+This is my first RoR project, it is a reddit-like web app, that different user can upload and view URLs.
 
-*I have learned some basic knowledge of RoR. It is amazing!
+I follow https://mackenziechild.me/12-in-12/ to finish this.
 
-*Just keep on trying!
+I know this is simply, but I have learned some basic knowledge of RoR. It is amazing!
+
+Just keep on trying!
